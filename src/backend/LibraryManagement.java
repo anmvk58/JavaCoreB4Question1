@@ -42,6 +42,7 @@ public class LibraryManagement {
                     break;
                 case 4:
                     // tìm kiếm tài liệu
+                    searchDocument();
                     break;
                 case 5:
                     System.out.println("Bye Bye !");
